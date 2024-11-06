@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "name": "Part 1",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 0,
+      "y": 0.3,
+      "z": 0
+    },
+    "color": {
+      "r": 55,
+      "g": 55,
+      "b": 99,
+      "a": 1
+    }
+  },
+  {
+    "id": 2,
+    "name": "Part 2",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 3,
+    "name": "Part 3",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 0.4,
+      "y": 0.25,
+      "z": 0.4
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 4,
+    "name": "Part 4",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 0.6,
+      "y": 0.15,
+      "z": 0.6
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 5,
+    "name": "Part 5",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 0.8,
+      "y": 0.2,
+      "z": 0.8
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 6,
+    "name": "Part 6",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 1,
+      "y": 0.3,
+      "z": 1
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 7,
+    "name": "Part 7",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 1.2,
+      "y": 0.2,
+      "z": 1.2
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 8,
+    "name": "Part 8",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 1.4,
+      "y": 0.25,
+      "z": 1.4
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 9,
+    "name": "Part 9",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 1.6,
+      "y": 0.15,
+      "z": 1.6
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 10,
+    "name": "Part 10",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 1.8,
+      "y": 0.2,
+      "z": 1.8
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 11,
+    "name": "Part 11",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 2,
+      "y": 0.3,
+      "z": 2
+    },
+    "color": {
+      "r": 255,
+      "g": 165,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 12,
+    "name": "Part 12",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 2.2,
+      "y": 0.2,
+      "z": 2.2
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 13,
+    "name": "Part 13",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 2.4,
+      "y": 0.25,
+      "z": 2.4
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 14,
+    "name": "Part 14",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 2.6,
+      "y": 0.15,
+      "z": 2.6
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 15,
+    "name": "Part 15",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 2.8,
+      "y": 0.2,
+      "z": 2.8
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 16,
+    "name": "Part 16",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 3,
+      "y": 0.3,
+      "z": 3
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 17,
+    "name": "Part 17",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 3.2,
+      "y": 0.2,
+      "z": 3.2
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 18,
+    "name": "Part 18",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 3.4,
+      "y": 0.25,
+      "z": 3.4
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 19,
+    "name": "Part 19",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 3.6,
+      "y": 0.15,
+      "z": 3.6
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 20,
+    "name": "Part 20",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 3.8,
+      "y": 0.2,
+      "z": 3.8
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 21,
+    "name": "Part 21",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 4,
+      "y": 0.3,
+      "z": 4
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 22,
+    "name": "Part 22",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 4.2,
+      "y": 0.2,
+      "z": 4.2
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 23,
+    "name": "Part 23",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 4.4,
+      "y": 0.25,
+      "z": 4.4
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 24,
+    "name": "Part 24",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 4.6,
+      "y": 0.15,
+      "z": 4.6
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 25,
+    "name": "Part 25",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 4.8,
+      "y": 0.2,
+      "z": 4.8
+    },
+    "color": {
+      "r": 255,
+      "g": 165,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 26,
+    "name": "Part 26",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 5,
+      "y": 0.3,
+      "z": 5
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 27,
+    "name": "Part 27",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 5.2,
+      "y": 0.2,
+      "z": 5.2
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 28,
+    "name": "Part 28",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 5.4,
+      "y": 0.25,
+      "z": 5.4
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 29,
+    "name": "Part 29",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 5.6,
+      "y": 0.15,
+      "z": 5.6
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 30,
+    "name": "Part 30",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 5.8,
+      "y": 0.2,
+      "z": 5.8
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 31,
+    "name": "Part 31",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 6,
+      "y": 0.3,
+      "z": 6
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 32,
+    "name": "Part 32",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 6.2,
+      "y": 0.2,
+      "z": 6.2
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 33,
+    "name": "Part 33",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 6.4,
+      "y": 0.25,
+      "z": 6.4
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 34,
+    "name": "Part 34",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 6.6,
+      "y": 0.15,
+      "z": 6.6
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 35,
+    "name": "Part 35",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 6.8,
+      "y": 0.2,
+      "z": 6.8
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 36,
+    "name": "Part 36",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 7,
+      "y": 0.3,
+      "z": 7
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 37,
+    "name": "Part 37",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 7.2,
+      "y": 0.2,
+      "z": 7.2
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 38,
+    "name": "Part 38",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 7.4,
+      "y": 0.25,
+      "z": 7.4
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 39,
+    "name": "Part 39",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 7.6,
+      "y": 0.15,
+      "z": 7.6
+    },
+    "color": {
+      "r": 255,
+      "g": 165,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 40,
+    "name": "Part 40",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 7.8,
+      "y": 0.2,
+      "z": 7.8
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 41,
+    "name": "Part 41",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 8,
+      "y": 0.3,
+      "z": 8
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 42,
+    "name": "Part 42",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 8.2,
+      "y": 0.2,
+      "z": 8.2
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 43,
+    "name": "Part 43",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 8.4,
+      "y": 0.25,
+      "z": 8.4
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 44,
+    "name": "Part 44",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 8.6,
+      "y": 0.15,
+      "z": 8.6
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 45,
+    "name": "Part 45",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 8.8,
+      "y": 0.2,
+      "z": 8.8
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 46,
+    "name": "Part 46",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 9,
+      "y": 0.3,
+      "z": 9
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 47,
+    "name": "Part 47",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 9.2,
+      "y": 0.2,
+      "z": 9.2
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 48,
+    "name": "Part 48",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 9.4,
+      "y": 0.25,
+      "z": 9.4
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 49,
+    "name": "Part 49",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 9.6,
+      "y": 0.15,
+      "z": 9.6
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 50,
+    "name": "Part 50",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 9.8,
+      "y": 0.2,
+      "z": 9.8
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 51,
+    "name": "Part 51",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 10,
+      "y": 0.3,
+      "z": 10
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 52,
+    "name": "Part 52",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 10.2,
+      "y": 0.2,
+      "z": 10.2
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 53,
+    "name": "Part 53",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 10.4,
+      "y": 0.25,
+      "z": 10.4
+    },
+    "color": {
+      "r": 255,
+      "g": 165,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 54,
+    "name": "Part 54",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 10.6,
+      "y": 0.15,
+      "z": 10.6
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 55,
+    "name": "Part 55",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 10.8,
+      "y": 0.2,
+      "z": 10.8
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 56,
+    "name": "Part 56",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 11,
+      "y": 0.3,
+      "z": 11
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 57,
+    "name": "Part 57",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 11.2,
+      "y": 0.2,
+      "z": 11.2
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 58,
+    "name": "Part 58",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 11.4,
+      "y": 0.25,
+      "z": 11.4
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 59,
+    "name": "Part 59",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 11.6,
+      "y": 0.15,
+      "z": 11.6
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 60,
+    "name": "Part 60",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 11.8,
+      "y": 0.2,
+      "z": 11.8
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 61,
+    "name": "Part 61",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 12,
+      "y": 0.3,
+      "z": 12
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 62,
+    "name": "Part 62",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 12.2,
+      "y": 0.2,
+      "z": 12.2
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 63,
+    "name": "Part 63",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 12.4,
+      "y": 0.25,
+      "z": 12.4
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 64,
+    "name": "Part 64",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 12.6,
+      "y": 0.15,
+      "z": 12.6
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 65,
+    "name": "Part 65",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 12.8,
+      "y": 0.2,
+      "z": 12.8
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 66,
+    "name": "Part 66",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 13,
+      "y": 0.3,
+      "z": 13
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 67,
+    "name": "Part 67",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 13.2,
+      "y": 0.2,
+      "z": 13.2
+    },
+    "color": {
+      "r": 255,
+      "g": 165,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 68,
+    "name": "Part 68",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 13.4,
+      "y": 0.25,
+      "z": 13.4
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 69,
+    "name": "Part 69",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 13.6,
+      "y": 0.15,
+      "z": 13.6
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 70,
+    "name": "Part 70",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 13.8,
+      "y": 0.2,
+      "z": 13.8
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 71,
+    "name": "Part 71",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 14,
+      "y": 0.3,
+      "z": 14
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 72,
+    "name": "Part 72",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 14.2,
+      "y": 0.2,
+      "z": 14.2
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 73,
+    "name": "Part 73",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 14.4,
+      "y": 0.25,
+      "z": 14.4
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 74,
+    "name": "Part 74",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 14.6,
+      "y": 0.15,
+      "z": 14.6
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 75,
+    "name": "Part 75",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 14.8,
+      "y": 0.2,
+      "z": 14.8
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 76,
+    "name": "Part 76",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 15,
+      "y": 0.3,
+      "z": 15
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 77,
+    "name": "Part 77",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 15.2,
+      "y": 0.2,
+      "z": 15.2
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 78,
+    "name": "Part 78",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 15.4,
+      "y": 0.25,
+      "z": 15.4
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 79,
+    "name": "Part 79",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 15.6,
+      "y": 0.15,
+      "z": 15.6
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 80,
+    "name": "Part 80",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 15.8,
+      "y": 0.2,
+      "z": 15.8
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 81,
+    "name": "Part 81",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 16,
+      "y": 0.3,
+      "z": 16
+    },
+    "color": {
+      "r": 255,
+      "g": 165,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 82,
+    "name": "Part 82",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 16.2,
+      "y": 0.2,
+      "z": 16.2
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 83,
+    "name": "Part 83",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 16.4,
+      "y": 0.25,
+      "z": 16.4
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 84,
+    "name": "Part 84",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 16.6,
+      "y": 0.15,
+      "z": 16.6
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 85,
+    "name": "Part 85",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 16.8,
+      "y": 0.2,
+      "z": 16.8
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 86,
+    "name": "Part 86",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 17,
+      "y": 0.3,
+      "z": 17
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 87,
+    "name": "Part 87",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 17.2,
+      "y": 0.2,
+      "z": 17.2
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 88,
+    "name": "Part 88",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 17.4,
+      "y": 0.25,
+      "z": 17.4
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 89,
+    "name": "Part 89",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 17.6,
+      "y": 0.15,
+      "z": 17.6
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 90,
+    "name": "Part 90",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 17.8,
+      "y": 0.2,
+      "z": 17.8
+    },
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 91,
+    "name": "Part 91",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 18,
+      "y": 0.3,
+      "z": 18
+    },
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 92,
+    "name": "Part 92",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 18.2,
+      "y": 0.2,
+      "z": 18.2
+    },
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "a": 1
+    }
+  },
+  {
+    "id": 93,
+    "name": "Part 93",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 18.4,
+      "y": 0.25,
+      "z": 18.4
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 94,
+    "name": "Part 94",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 18.6,
+      "y": 0.15,
+      "z": 18.6
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 95,
+    "name": "Part 95",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 18.8,
+      "y": 0.2,
+      "z": 18.8
+    },
+    "color": {
+      "r": 255,
+      "g": 165,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 96,
+    "name": "Part 96",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.6,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 19,
+      "y": 0.3,
+      "z": 19
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 97,
+    "name": "Part 97",
+    "geometry": {
+      "width": 1,
+      "height": 4,
+      "depth": 2
+    },
+    "position": {
+      "x": 19.2,
+      "y": 0.2,
+      "z": 19.2
+    },
+    "color": {
+      "r": 128,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 98,
+    "name": "Part 98",
+    "geometry": {
+      "width": 0.15,
+      "height": 0.5,
+      "depth": 0.15
+    },
+    "position": {
+      "x": 19.4,
+      "y": 0.25,
+      "z": 19.4
+    },
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 1
+    }
+  },
+  {
+    "id": 99,
+    "name": "Part 99",
+    "geometry": {
+      "width": 0.2,
+      "height": 0.3,
+      "depth": 0.1
+    },
+    "position": {
+      "x": 19.6,
+      "y": 0.15,
+      "z": 19.6
+    },
+    "color": {
+      "r": 128,
+      "g": 128,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "id": 100,
+    "name": "Part 100",
+    "geometry": {
+      "width": 0.1,
+      "height": 0.4,
+      "depth": 0.2
+    },
+    "position": {
+      "x": 19.8,
+      "y": 0.2,
+      "z": 19.8
+    },
+    "color": {
+      "r": 0,
+      "g": 128,
+      "b": 128,
+      "a": 1
+    }
+  }
+]
